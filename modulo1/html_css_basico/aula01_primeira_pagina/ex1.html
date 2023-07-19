@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html {
+            font-size: 1.5rem;
+        }
+        h1 {
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha primeira pagina em HTML5</h1>
+    <p id="texto">Olá mundo</p>
+    <button onclick="mudar()">Mudar cor</button>
+    <script>
+        function mudar() {
+            const cor = window.document.querySelector('#texto')
+            cor.style.color = 'red'
+        }
+    </script>
+</body>
+</html>

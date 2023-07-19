@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+}
+p {
+    color: inherit;
+}
+img {
+    max-width: 100%;
+}
+img.paraiso1, img.paraiso2 {
+    max-width: 50%;
+}

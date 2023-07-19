@@ -1,0 +1,46 @@
+html {
+    margin: 0px 80px 0px 80px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+}
+div.bloco1 {
+    background-color: black;
+    border-radius: 4px;
+    padding: 30px;
+}
+div.bloco2 {
+    background-color: black;
+    border-radius: 4px;
+    padding: 30px;
+    margin: 15px 0px 0px 0px;
+}
+span.texto1 {
+    color: white;
+}
+span.texto2 {
+    color: white;
+}
+h1 {
+    color: black;
+    text-align: center;
+    padding: 0px;
+}
+p {
+    color: #b2b2b2;
+}
+span {
+    color: #febe01;
+}
+button {
+    color: #332200;
+    background-color: #febe01;
+    font-family: Arial;
+    border: 0px;
+    border-radius: 4px;
+    padding: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+Data hoje 19/07/2023. Curso em andamento. Em breve postarei mais.

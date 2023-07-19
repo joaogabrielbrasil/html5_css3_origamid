@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+div.caixa1 {
+    background-color: yellow;
+    height: 100px;
+    width: auto;
+    border-left: 5px solid green;
+    border-radius: 10px 50px 70px 0px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial;
+    font-weight: 900;
+    cursor: pointer;
+}
+div.caixa2 {
+    background-color: brown;
+    width: auto;
+    height: 50px;
+    margin: 10px 0px 0px 0px ;
+    cursor: pointer;
+}
+div.caixa2 p {
+    padding: 15px 0px 0px 0px;
+}

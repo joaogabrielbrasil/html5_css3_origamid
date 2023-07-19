@@ -1,0 +1,22 @@
+h1, p {
+    color: blueviolet;
+}
+p.link_vazio a {
+    color: crimson;
+    text-decoration: none;
+}
+p.link_vazio a:hover {
+    color: blue;
+}
+p.link_vazio a:visited {
+    color: chocolate;
+}
+p.azul {
+    color: blue;
+}
+p.grande {
+    font-size: 3em;
+}
+p.underline {
+    text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+header a {
+    color: darkblue;
+    text-decoration: none;
+}
+h1 {
+    color: black;
+    font-family: Arial;
+}
+p {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Arial;
+    color: darkred;
+}

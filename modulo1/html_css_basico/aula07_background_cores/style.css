@@ -1,0 +1,13 @@
+h1.azul {
+    background: blue;
+}
+p a.green {
+    color: darkcyan;
+    text-decoration: none;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 900;
+}
+p a.green:visited {
+    color: rgb(0, 255, 0);
+}
